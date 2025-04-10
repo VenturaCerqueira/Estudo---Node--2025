@@ -4,7 +4,6 @@
 **Título:** Jornada Node.js – Do Zero ao Profissional Backend  
 **Subtítulo:** Guia prático de 12 meses para dominar backend com Node.js  
 **Autor:** Anderson Ventura 
-**Formato:** PDF para leitura em tela (web-friendly)
 
 ---
 
