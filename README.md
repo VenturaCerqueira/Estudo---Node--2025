@@ -1,89 +1,174 @@
-# 🚀 Jornada Node.js – Do Zero ao Profissional Backend
+# 📘 Jornada Node.js – Do Zero ao Profissional Backend
 
-> Um plano de estudos completo de 12 meses para dominar o backend com Node.js.
-
-![Node.js](https://nodejs.org/static/images/logo.svg)
+---
+**Título:** Jornada Node.js – Do Zero ao Profissional Backend  
+**Subtítulo:** Guia prático de 12 meses para dominar backend com Node.js  
+**Autor:** Anderson Ventura 
+**Formato:** PDF para leitura em tela (web-friendly)
 
 ---
 
-## 📘 Sobre o Projeto
+## 📑 Sumário Interativo (Tabela)
 
-Este material foi criado para quem deseja se tornar um desenvolvedor backend profissional usando Node.js. A **Jornada Node.js** é um guia prático, direto e com aplicação real, dividido em 12 módulos mensais com foco no aprendizado consistente e eficiente, baseado no princípio **80/20**: aprender o que mais importa, da forma mais rápida possível.
-
----
-
-## 🎯 Objetivos do Guia
-
-- Aprender backend com JavaScript moderno
-- Construir APIs REST profissionais com Node.js
-- Praticar com projetos reais e desafiadores
-- Dominar testes, banco de dados, segurança e DevOps
-- Criar um portfólio sólido e se preparar para entrevistas
-
----
-
-## 🧭 Sumário
-
-## 📑 Sumário Interativo
-
-1. [📘 Introdução](#-introdução)  
-   ├─ O que é backend  
-   ├─ Por que aprender Node.js  
-   └─ Como usar esse guia de estudos  
-
-2. [📚 Glossário Técnico](#-glossário-técnico)  
-   └─ Termos como JSON, API, REST, JWT, ORM, etc.
-
-3. [📅 Plano de Estudos – 12 Meses](#-plano-de-estudos--12-meses)  
-   ├─ Módulo 1: Fundamentos de JavaScript  
-   ├─ Módulo 2: Git, GitHub e VSCode  
-   ├─ Módulo 3: Node.js + NPM  
-   ├─ Módulo 4: Express e APIs REST  
-   ├─ Módulo 5: Banco de Dados (SQL/NoSQL)  
-   ├─ Módulo 6: Prisma, Mongoose e ORM  
-   ├─ Módulo 7: Autenticação com JWT  
-   ├─ Módulo 8: Testes com Jest e Supertest  
-   ├─ Módulo 9: CI/CD e Docker  
-   ├─ Módulo 10: GraphQL e WebSocket  
-   ├─ Módulo 11: Arquitetura e CLI com Node.js  
-   └─ Módulo 12: Portfólio e preparação para entrevistas  
-
-4. [📌 Temas e Tecnologias](#-temas-e-tecnologias)  
-   └─ Tópicos abordados mês a mês  
-
-5. [📊 Tabelas e Calendário](#-tabelas-e-calendário-de-estudos)  
-   └─ Progresso semanal + organização visual  
-
-6. [🧰 Templates e Recursos](#-templates-e-recursos-úteis)  
-   ├─ README profissional  
-   ├─ Configs de ESLint, Prettier  
-   └─ Commits padrão e Trello  
-
-7. [❤️ Apoie e Compartilhe](#️-apoie-e-compartilhe)  
-   └─ GitHub Sponsors, Buy Me a Coffee, etc.
-
-8. [📥 Baixe Agora](#-baixe-agora)  
-   └─ Link direto para a versão PDF Web
+| Nº | Seção                            | Subtópicos                                                                 | Link Clicável                       |
+|----|----------------------------------|---------------------------------------------------------------------------|------------------------------------|
+| 1  | 📘 Introdução                    | O que é backend, Por que aprender Node.js, Como usar esse guia           | [Ir para Introdução](#-introdução) |
+| 2  | 📚 Glossário Técnico             | JSON, REST, API, Middleware, JWT, ORM, etc.                               | [Ir para Glossário](#-glossário-técnico) |
+| 3  | 📅 Plano de Estudos – 12 Meses   | 12 Módulos de conteúdo prático e teórico                                 | [Ir para Plano de Estudos](#-plano-de-estudos--12-meses) |
+| 4  | 📌 Temas e Tecnologias           | Tecnologias abordadas mês a mês                                          | [Ir para Temas](#-temas-e-tecnologias) |
+| 5  | 📊 Tabelas e Calendário          | Progresso semanal, organização visual                                     | [Ir para Tabelas](#-tabelas-e-calendário-de-estudos) |
+| 6  | 🧰 Templates e Recursos          | README profissional, ESLint, Commits, Trello                              | [Ir para Templates](#-templates-e-recursos-úteis) |
+| 7  | ❤️ Apoie e Compartilhe          | GitHub Sponsors, Buy Me a Coffee, etc.                                    | [Ir para Apoie](#️-apoie-e-compartilhe) |
+| 8  | 📥 Baixe Agora                   | Link direto para baixar o PDF                                             | [Ir para Download](#-baixe-agora) |
 
 ---
 
-## 🙌 Contribua ou Apoie
+## 📘 Introdução
 
-Você pode apoiar este projeto financeiramente via [GitHub Sponsors](https://github.com/sponsors), [Buy Me a Coffee](https://buymeacoffee.com) ou outro meio. Toda ajuda é bem-vinda! 💚
+**O que é Backend:**
+Backend é a parte do desenvolvimento responsável por toda a lógica por trás de um sistema. Ele lida com banco de dados, autenticação, regras de negócio, APIs e muito mais.
+
+**Por que aprender Node.js:**
+Node.js é leve, rápido, possui uma comunidade enorme, e permite usar JavaScript no servidor, unificando a stack.
+
+**Como usar esse guia:**
+Siga o plano mês a mês, use o checklist, pratique com os projetos e anote seu progresso. É feito para ser seguido com 1h de estudo por dia, de segunda a sábado.
+
+---
+
+## 📚 Glossário Técnico
+
+| Termo      | Definição |
+|------------|----------|
+| JSON       | Formato leve de troca de dados entre aplicações |
+| REST       | Estilo arquitetural para criação de APIs |
+| API        | Interface de programação que permite integração entre sistemas |
+| Middleware | Funções que interceptam e manipulam requisições/respostas |
+| JWT        | Token usado para autenticação segura |
+| ORM        | Ferramenta que mapeia objetos para bancos de dados relacionais |
+
+---
+
+## 📅 Plano de Estudos – 12 Meses
+
+Cada módulo representa 1 mês de estudo, com carga horária de 1h/dia (Seg-Sáb). Contém teoria, prática, links úteis, checklist e projeto final.
+
+### Mês 1 – Fundamentos do JavaScript e Ambiente
+- JavaScript moderno (ES6+)
+- Variáveis, funções, classes
+- Node.js instalado e configurado
+- Uso do VSCode e plugins úteis
+- Projeto: Script CLI com entrada de dados
+
+### Mês 2 – Git e GitHub
+- Versionamento com Git
+- Fluxo de branches
+- Commits semânticos
+- Projeto: Repositório organizado com README
+
+### Mês 3 – Node.js e Módulos
+- Módulos internos e externos
+- npm e estrutura de projeto
+- Projeto: Conversor de moedas CLI
+
+### Mês 4 – Express e APIs REST
+- Criar servidor com Express
+- Rotas, Middlewares e Status HTTP
+- Projeto: API de tarefas (CRUD)
+
+### Mês 5 – Banco de Dados SQL (PostgreSQL)
+- SQL básico (SELECT, INSERT, JOIN)
+- Uso do Prisma ORM
+- Projeto: API com banco relacional
+
+### Mês 6 – Banco de Dados NoSQL (MongoDB)
+- Conceitos NoSQL
+- MongoDB com Mongoose
+- Projeto: Blog com MongoDB
+
+### Mês 7 – Autenticação e Segurança
+- JWT e bcrypt
+- Proteção de rotas e validações
+- Projeto: API autenticada de usuários
+
+### Mês 8 – Testes com Jest
+- Testes unitários e de integração
+- Supertest para APIs
+- Projeto: API com testes automatizados
+
+### Mês 9 – DevOps e Docker
+- Conceitos de containerização
+- Dockerfiles e docker-compose
+- Projeto: API dockerizada
+
+### Mês 10 – Documentação e Monitoramento
+- Swagger para APIs
+- Winston e logs
+- Projeto: API documentada e com logs
+
+### Mês 11 – GraphQL e WebSocket
+- Consultas GraphQL
+- WebSocket com Socket.io
+- Projeto: Chat em tempo real
+
+### Mês 12 – Portfólio, Entrevistas e Projetos Finais
+- README, Portfólio, Dicas de Entrevistas
+- Projeto: API final completa + deploy
+
+---
+
+## 📌 Temas e Tecnologias
+
+- JavaScript moderno (ES6+)
+- Git e GitHub (Commits, branches)
+- VSCode (plugins e boas práticas)
+- Node.js (módulos core, npm)
+- APIs REST com Express
+- Banco de dados: PostgreSQL e MongoDB
+- ORM: Prisma e Mongoose
+- Autenticação com JWT e bcrypt
+- Testes com Jest e Supertest
+- Docker, Redis e uploads
+- Documentação com Swagger
+- GraphQL e WebSocket
+- Estrutura MVC e Clean Code
+- Segurança (OWASP Top 10)
+- Gestão com Trello ou Jira
+- Relatórios técnicos
+
+---
+
+## 📊 Tabelas e Calendário de Estudos
+
+| Semana | Dias de Estudo | Atividade                                |
+|--------|----------------|------------------------------------------|
+| 1      | Seg a Sáb      | Leitura + Vídeo introdutório             |
+| 2      | Seg a Sáb      | Prática com exercícios                   |
+| 3      | Seg a Sáb      | Projeto guiado                           |
+| 4      | Seg a Sáb      | Finalização + Checklist + Anotações      |
+
+---
+
+## 🧰 Templates e Recursos Úteis
+
+- README.md profissional
+- Modelo de commits semânticos
+- ESLint configurado
+- Trello com checklist mensal
+
+---
+
+## ❤️ Apoie e Compartilhe
+
+**Se este guia te ajudou:**
+- ⭐ Dê uma estrela no GitHub
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com)
+- 💬 Compartilhe com a comunidade
 
 ---
 
 ## 📥 Baixe Agora
 
-> Em breve: versão completa em PDF para leitura em tela!
+> **[Clique aqui para baixar o PDF completo](#)**
 
----
-
-## 🧠 Autor
-
-Gerado por **ChatGPT** com curadoria de conteúdo técnico para desenvolvedores Node.js.
-
----
-
-> 📌 **Nota:** Este guia é gratuito e open-source. Sinta-se à vontade para compartilhar, adaptar e contribuir.
-
+Caso prefira, posso gerar agora o **PDF estilizado e interativo**, pronto para leitura e uso diário!
