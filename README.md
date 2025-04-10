@@ -1,10 +1,13 @@
 # 📘 Jornada Node.js – Do Zero ao Profissional Backend
+---
 
-![1744309174551](images/README/1744309174551.png)---
+![1744309174551](images/README/1744309174551.png)
 
-**Título:** Jornada Node.js – Do Zero ao Profissional Backend
-**Subtítulo:** Guia prático de 12 meses para dominar backend com Node.js
-**Autor:** Anderson Ventura
+---
+
+**Título:** Jornada Node.js – Do Zero ao Profissional Backend <br>
+**Subtítulo:** Guia prático de 12 meses para dominar backend com Node.js <br>
+**Autor:** Anderson Ventura <br>
 
 ---
 
