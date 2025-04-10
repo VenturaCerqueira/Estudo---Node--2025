@@ -24,48 +24,46 @@ Este material foi criado para quem deseja se tornar um desenvolvedor backend pro
 
 ## 🧭 Sumário
 
-### 📖 Introdução
-- O que é backend
-- Por que aprender Node.js
-- Como estudar com este guia
+## 📑 Sumário Interativo
 
-### 📚 Glossário Técnico
-- Termos essenciais: API, JSON, JWT, ORM, etc.
+1. [📘 Introdução](#-introdução)  
+   ├─ O que é backend  
+   ├─ Por que aprender Node.js  
+   └─ Como usar esse guia de estudos  
 
-### 🗓️ Plano de Estudos (12 meses)
-Cada módulo contém:
-- Resumo teórico
-- Projeto prático
-- Checklists de progresso
-- Links úteis (artigos, vídeos, documentação)
-- Templates e recursos visuais
-- Link para quadro Trello
+2. [📚 Glossário Técnico](#-glossário-técnico)  
+   └─ Termos como JSON, API, REST, JWT, ORM, etc.
 
-### 📌 Temas abordados ao longo do guia:
-- JavaScript moderno (ES6+)
-- Git e GitHub
-- VSCode e produtividade
-- Node.js e NPM
-- Express.js e APIs REST
-- Banco de Dados: PostgreSQL e MongoDB
-- ORM: Prisma e Mongoose
-- Autenticação com JWT e bcrypt
-- Testes com Jest e Supertest
-- Docker, Redis, Swagger
-- GraphQL e WebSocket
-- Clean Code, MVC, CLI
-- Segurança (OWASP Top 10)
-- Portfólio, README e entrevistas
+3. [📅 Plano de Estudos – 12 Meses](#-plano-de-estudos--12-meses)  
+   ├─ Módulo 1: Fundamentos de JavaScript  
+   ├─ Módulo 2: Git, GitHub e VSCode  
+   ├─ Módulo 3: Node.js + NPM  
+   ├─ Módulo 4: Express e APIs REST  
+   ├─ Módulo 5: Banco de Dados (SQL/NoSQL)  
+   ├─ Módulo 6: Prisma, Mongoose e ORM  
+   ├─ Módulo 7: Autenticação com JWT  
+   ├─ Módulo 8: Testes com Jest e Supertest  
+   ├─ Módulo 9: CI/CD e Docker  
+   ├─ Módulo 10: GraphQL e WebSocket  
+   ├─ Módulo 11: Arquitetura e CLI com Node.js  
+   └─ Módulo 12: Portfólio e preparação para entrevistas  
 
----
+4. [📌 Temas e Tecnologias](#-temas-e-tecnologias)  
+   └─ Tópicos abordados mês a mês  
 
-## 📂 Estrutura
+5. [📊 Tabelas e Calendário](#-tabelas-e-calendário-de-estudos)  
+   └─ Progresso semanal + organização visual  
 
-- 📕 Capa visual 
-- 📌 Sumário interativo
-- 📘 Conteúdo mensal com projetos
-- 📊 Tabelas de progresso e calendário de estudos
-- 🧰 Templates prontos para uso (README, ESLint, Git)
+6. [🧰 Templates e Recursos](#-templates-e-recursos-úteis)  
+   ├─ README profissional  
+   ├─ Configs de ESLint, Prettier  
+   └─ Commits padrão e Trello  
+
+7. [❤️ Apoie e Compartilhe](#️-apoie-e-compartilhe)  
+   └─ GitHub Sponsors, Buy Me a Coffee, etc.
+
+8. [📥 Baixe Agora](#-baixe-agora)  
+   └─ Link direto para a versão PDF Web
 
 ---
 
