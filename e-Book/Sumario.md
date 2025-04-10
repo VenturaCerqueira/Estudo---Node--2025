@@ -3,16 +3,19 @@
 ---
 
 **1. 🚀 Introdução:**
+
 * [Leia a Introdução](introducao.md)
 
 ---
 
 **2. ⚙️ Glossário Técnico Essencial:**
+
 * [Consulte o Glossário](glossario.md)
 
 ---
 
 **3. 🗓️ Plano de Estudo Mensal Detalhado:**
+
 * **Mês 1: Fundamentos do JavaScript Moderno (ES6+) 🧱**
 * [Resumo Teórico - Mês 1](mes1_resumo.md)
 * [Lista de Tópicos - Mês 1](mes1_topicos.md)
@@ -149,13 +152,18 @@
 ---
 
 **4. 🎯 Tópicos e Tecnologias a Cobrir:**
+
 * [Lista Completa de Tópicos](topicos.md)
 
 ---
 
 **5. ➕ Extras para Impulsionar sua Jornada:**
+
 * [Dicas e Recursos Adicionais](extras.md)
 
 ---
 
 **🚀 Prepare-se para decolar em sua jornada para se tornar um profissional backend Node.js!**
+
+
+[🔙 Voltar para o GitHub](https://github.com/VenturaCerqueira/Estudo---Node--2025)
