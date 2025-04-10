@@ -1,6 +1,6 @@
 # 📘 Jornada Node.js – Do Zero ao Profissional Backend
 
----
+![1744309174551](images/README/1744309174551.png)---
 
 **Título:** Jornada Node.js – Do Zero ao Profissional Backend
 **Subtítulo:** Guia prático de 12 meses para dominar backend com Node.js
@@ -49,105 +49,107 @@ Siga o plano mês a mês, use o checklist, pratique com os projetos e anote seu 
 | JWT        | Token usado para autenticação segura                             |
 | ORM        | Ferramenta que mapeia objetos para bancos de dados relacionais     |
 
-
 ## 📅 Plano de Estudos – 12 Meses (1hora) Segunda á Sabados:
 
 Cada módulo representa 1 mês de estudo, com carga horária de 1h/dia (Seg-Sáb). Contém teoria, prática, links úteis, checklist e projeto final.
 
-### Mês 1 – Fundamentos do JavaScript e Ambiente
+### Mês 1 – ⚛️ Fundamentos do JavaScript e Ambiente
 
-- [ ]  JavaScript moderno (ES6+)
-- [ ]  Variáveis, funções, classes
-- [ ]  Node.js instalado e configurado
-- [ ]  Uso do VSCode e plugins úteis
-- [ ]  Projeto: Script CLI com entrada de dados
+- [ ]  💻 JavaScript moderno (ES6+)
+- [ ]  🔡 Variáveis, ⚙️ funções, 🧱 classes
+- [ ]  💻 Node.js instalado e configurado
+- [ ]  💻 Uso do VSCode e 🧩 plugins úteis
+- [ ]  🚀 Projeto: Script CLI com entrada de dados
 
-### Mês 2 – Git e GitHub
+### Mês 2 – 🌿 Git e 🐙 GitHub
 
-- [ ]  Versionamento com Git
-- [ ]  Fluxo de branches
-- [ ]  Commits semânticos
-- [ ]  Projeto: Repositório organizado com README
+- [ ]  💾 Versionamento com Git
+- [ ]  🌳 Fluxo de branches
+- [ ]  📝 Commits semânticos
+- [ ]  📚 Projeto: Repositório organizado com README
 
-### Mês 3 – Node.js e Módulos
+### Mês 3 – ⚙️ Node.js e 📦 Módulos
 
-- [ ]  Módulos internos e externos
-- [ ]  npm e estrutura de projeto
-- [ ]  Projeto: Conversor de moedas CLI
+- [ ]  🧩 Módulos internos e externos
+- [ ]  📦 npm e 📂 estrutura de projeto
+- [ ]  💰 Projeto: Conversor de moedas CLI
 
-### Mês 4 – Express e APIs REST
+### Mês 4 – 🌐 Express e 🔗 APIs REST
 
-- [ ]  Criar servidor com Express
-- [ ]  Rotas, Middlewares e Status HTTP
-- [ ]  Projeto: API de tarefas (CRUD)
+- [ ]  🏗️ Criar servidor com Express
+- [ ]  🗺️ Rotas, 🚦 Middlewares e 🚥 Status HTTP
+- [ ]  📝 Projeto: API de tarefas (CRUD)
 
-### Mês 5 – Banco de Dados SQL (PostgreSQL)
+### Mês 5 – 📊 Banco de Dados SQL (PostgreSQL)
 
-- [ ]  SQL básico (SELECT, INSERT, JOIN)
-- [ ]  Uso do Prisma ORM
-- [ ]  Projeto: API com banco relacional
+- [ ]  💻 SQL básico (SELECT, INSERT, JOIN)
+- [ ]  ✨ Uso do Prisma ORM
+- [ ]  🏦 Projeto: API com banco relacional
 
-### Mês 6 – Banco de Dados NoSQL (MongoDB)
+### Mês 6 – 🧱 Banco de Dados NoSQL (MongoDB)
 
-- [ ]  Conceitos NoSQL
-- [ ]  MongoDB com Mongoose
-- [ ]  Projeto: Blog com MongoDB
+- [ ]  💡 Conceitos NoSQL
+- [ ]  🍃 MongoDB com Mongoose
+- [ ]  📰 Projeto: Blog com MongoDB
 
-### Mês 7 – Autenticação e Segurança
+### Mês 7 – 🔑 Autenticação e 🛡️ Segurança
 
-- [ ]  JWT e bcrypt
-- [ ]  Proteção de rotas e validações
-- [ ]  Projeto: API autenticada de usuários
+- [ ]  🔑 JWT e <0xF0><0x9F><0xAA><0x99> bcrypt
+- [ ]  🔒 Proteção de rotas e ✅ validações
+- [ ]  👤 Projeto: API autenticada de usuários
 
-### Mês 8 – Testes com Jest
+### Mês 8 – ✅ Testes com Jest
 
-- [ ]  Testes unitários e de integração
-- [ ]  Supertest para APIs
-- [ ]  Projeto: API com testes automatizados
+- [ ]  🧪 Testes unitários e de integração
+- [ ]  📡 Supertest para APIs
+- [ ]  🤖 Projeto: API com testes automatizados
 
-### Mês 9 – DevOps e Docker
+### Mês 9 – ⚙️ DevOps e 🐳 Docker
 
-- [ ]  Conceitos de containerização
-- [ ]  Dockerfiles e docker-compose
-- [ ]  Projeto: API dockerizada
+- [ ]  📦 Conceitos de containerização
+- [ ]  🐳 Dockerfiles e 🚢 docker-compose
+- [ ]  🚀 Projeto: API dockerizada
 
-### Mês 10 – Documentação e Monitoramento
+### Mês 10 – 📑 Documentação e 📊 Monitoramento
 
-- [ ]  Swagger para APIs
-- [ ]  Winston e logs
-- [ ]  Projeto: API documentada e com logs
+- [ ]  📜 Swagger para APIs;
+- [ ]  🪵 Winston e logs;
+- [ ]  📈 Projeto: API documentada e com logs;
 
-### Mês 11 – GraphQL e WebSocket
+### Mês 11 – 🌠 GraphQL e 🔗 WebSocket
 
-- [ ]  Consultas GraphQL
-- [ ]  WebSocket com Socket.io
-- [ ]  Projeto: Chat em tempo real
+- [ ]  ❓ Consultas GraphQL;
+- [ ]  ⚡ WebSocket com Socket.io;
+- [ ]  💬 Projeto: Chat em tempo real;
 
-### Mês 12 – Portfólio, Entrevistas e Projetos Finais
+### Mês 12 – 💼 Portfólio, 🗣️ Entrevistas e 🏆 Projetos Finais
 
-- [ ]  README, Portfólio, Dicas de Entrevistas
-- [ ]  Projeto: API final completa + deploy
-
----
+- [ ]  💻 README, 🖼️ Portfólio, 💡 Dicas de Entrevistas;
+- [ ]  🥇 Projeto: API final completa + 🚀 deploy;
+- [ ]  JavaScript moderno (ES6+);
+- [ ]  Variáveis, funções, classes;
+- [ ]  Node.js instalado e configurado;
+- [ ]  Uso do VSCode e plugins úteis;
+- [ ]  Projeto: Script CLI com entrada de dado;
 
 ## 📌 Temas e Tecnologias
 
 1. JavaScript moderno (ES6+)
-1. Git e GitHub (Commits, branches)
-1. VSCode (plugins e boas práticas)
-1. Node.js (módulos core, npm)
-1. APIs REST com Express
-1. Banco de dados: PostgreSQL e MongoDB
-1. ORM: Prisma e Mongoose
-1. Autenticação com JWT e bcrypt
-1. Testes com Jest e Supertest
-1. Docker, Redis e uploads
-1. Documentação com Swagger
-1. GraphQL e WebSocket
-1. Estrutura MVC e Clean Code
-1. Segurança (OWASP Top 10)
-1. Gestão com Trello ou Jira
-1. Relatórios técnicos
+2. Git e GitHub (Commits, branches)
+3. VSCode (plugins e boas práticas)
+4. Node.js (módulos core, npm)
+5. APIs REST com Express
+6. Banco de dados: PostgreSQL e MongoDB
+7. ORM: Prisma e Mongoose
+8. Autenticação com JWT e bcrypt
+9. Testes com Jest e Supertest
+10. Docker, Redis e uploads
+11. Documentação com Swagger
+12. GraphQL e WebSocket
+13. Estrutura MVC e Clean Code
+14. Segurança (OWASP Top 10)
+15. Gestão com Trello ou Jira
+16. Relatórios técnicos
 
 ---
 
